@@ -1,0 +1,14 @@
+footer{
+   grid-area: ft;
+}
+footer p{
+    text-align: center;
+    font-style: italic;
+    font-size: 75%;
+}
+.postcontainer footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}

@@ -1,0 +1,25 @@
+header{
+    grid-area: hd;   
+}
+div .navbar ul{
+    display: inline-flexbox;
+    list-style-type: none;
+    font-style: italic;
+}
+h1{
+    text-align: center;
+    padding-top: 2%;
+}
+button{
+    border-radius: 4px;
+    background-color: #ffe6e5;
+    margin-left: 48%;
+}
+.postcontainer a{
+    font-style: italic;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+.postcontainer header{
+    background-color: #DCDCDC;
+}
